@@ -16,10 +16,10 @@ Kullanıcılarımız internet üzerinden erişim sağlayabilecek herkese açık 
 ## Araç Analizi 
 Web sitemizi Html,Css,Php kodları ile tasarlıyoruz.
 # Kullanılacak Kaynaklar 
-• Bilgisayar
-• Php,Css,Html
-• Xampp
-• Kullanıcı analizleri
+• Bilgisayar </br>
+• Php,Css,Html </br>
+• Xampp </br>
+• Kullanıcı analizleri </br>
 # Dİyagram
 ![USECASE](https://user-images.githubusercontent.com/101805467/166063630-c7b7255a-cb04-4377-a3c9-04536cbaacb9.png) </br>
 ![11111](https://user-images.githubusercontent.com/101805467/166064851-27202aa4-5360-4328-a3ce-856d24382158.png)
