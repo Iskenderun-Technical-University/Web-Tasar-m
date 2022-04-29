@@ -21,7 +21,7 @@ Web sitemizi Html,Css,Php kodları ile tasarlıyoruz.
 • Xampp
 • Kullanıcı analizleri
 # Dİyagram
-
+![USECASE](https://user-images.githubusercontent.com/101805467/166063630-c7b7255a-cb04-4377-a3c9-04536cbaacb9.png)
 # Görev Dağılımı
 Tasarım Düşüncesi ( Faik Cem Güler, Özkan Taşkıran)  </br>
 Link ve görsellerin araştırılması ( Faik Cem Güler, Özkan Taşkıran)  </br>
