@@ -1,6 +1,7 @@
 # PROJE-WEB SAYFASI TASARIM
 # WEB SAYFASI TASARIM RAPORU
 ## MOTİVASYONUMUZ  NEDİR?
+
 Oluşturacağımız projede bizi motive eden kısım öncelikle kendimizce bir proje geliştirmiş olup bir çok insana katkıda bulunmaktır.Bu projenin bir Bilgisayar Mühendisi adayı olarak bizi teknolojik ve düşünce yapısı açısından gelişimimize destek sağlayacağını düşünüyoruz.
 ## Daha önce bu tip bir projede neler kullanılmış? 
 Daha önce bir çok site üzerinden belli başlı sitelere yönlendirme yapılıyordu ama bu siteler belli başlı sitelerdir.
@@ -25,6 +26,7 @@ Web sitemizi Html,Css,Php kodları ile tasarlıyoruz.
 ![11111](https://user-images.githubusercontent.com/101805467/166064851-27202aa4-5360-4328-a3ce-856d24382158.png)
 
 # Görev Dağılımı
+
 • Tasarım Düşüncesi ( Faik Cem Güler, Özkan Taşkıran)  </br>
 • Link ve görsellerin araştırılması ( Faik Cem Güler, Özkan Taşkıran)  </br>
 • Tasarım Taslağı ( Faik Cem Güler, Özkan Taşkıran)  </br>
